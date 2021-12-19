@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranjal Gupta. I'm an MS ECE student at Georgia Tech
-- 👀 I mostly work on Deep Learning techniques applied to Computer Vision, but I'm definitely interested in other applications as well
+- 👀 Recently, I've mostly been trying to learn/apply Deep Learning techniques to Computer Vision, Natural Langauge Processing and Reinforcement Learning. 
 - 🌱 I’m currently learning about DL methods applied to Natural Language Processing
 - 📫 You can reach me at pgupta332@gatech.edu
 
